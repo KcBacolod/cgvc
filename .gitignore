@@ -1,0 +1,7 @@
+# Local compiler toolchain and generated build output
+/opengl-workspace-windows/toolchain/
+*.exe
+
+# Python bytecode caches
+__pycache__/
+*.py[cod]

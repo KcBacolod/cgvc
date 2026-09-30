@@ -1,0 +1,14 @@
+{
+  "version": 4,
+  "configurations": [
+    {
+      "name": "Portable UCRT64",
+      "compilerPath": "${workspaceFolder}/opengl-workspace-windows/toolchain/ucrt64/bin/g++.exe",
+      "includePath": ["${workspaceFolder}/opengl-workspace-windows/**"],
+      "defines": [],
+      "cStandard": "c17",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "windows-gcc-x64"
+    }
+  ]
+}
